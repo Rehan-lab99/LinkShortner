@@ -3,7 +3,7 @@
 #   Developed by Youname
 #   200+ shorteners | cool UI | force-join
 # ═══════════════════════════════════════════
-BOT_TOKEN = "9046473119:AAHN2ImjzBHqqhAyfg_Mx954Fk-iPr8uYYE"
+BOT_TOKEN = "8716090139:AAEgubZjY9dFTSEq3JNTTCBbktrS3mGb1kw"
 # ═══════════════════════════════════════════
 
 import os
